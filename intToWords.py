@@ -1,10 +1,6 @@
-# Lab 4 
 # Rabia Mohiuddin
-# CIS 41A
 # Fall 2017
 
-# Lab 4:
-# Add to the program intName.py in ch 5, section 5 of the book.
 # This program turns an integer into its English name.
 
 def intName(number) :
